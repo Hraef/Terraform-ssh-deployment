@@ -1,5 +1,3 @@
-# Terraform-ssh-deployment
-
 ## This demo was created while following this tutorial
 https://www.youtube.com/watch?v=V53AHWun17s
 
